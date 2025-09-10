@@ -69,7 +69,7 @@ True + 1 # Error: object 'True' not found
 TRUE & FALSE
 TRUE | FALSE
 TRUE & TRUE
-isTRUE(TRUE)
+isTRUE(TRUE) # TRUE
 isTRUE(FALSE) # FALSE
 1 & TRUE
 0 & TRUE
