@@ -1,13 +1,17 @@
 # --- 1. 통계 함수 ---
+## --- 1.1. 통계 함수 설명 ---
 # sum()은 
 # mean()은
 # var()은
 # sd()는
-#
-#
-#
-#
-#
+# median()은
+# max()는
+# min()은
+# IQR()은
+# quantile(, probs)는
+# range()는
+# summary()는 
+# fivenum()은 
 sum
 mean
 var
@@ -17,12 +21,12 @@ max
 min
 IQR
 quantile(, probs)
-
 range
-
 summary
-
 fivenum
+
+## --- 1.2. 왜 c()를 쓰는가 ---
+## --- 1.3. var()과 sd() ---
 
 # --- 2. 수학 함수 ---
 ## --- 2.1. 로그 및 지수 함수
